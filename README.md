@@ -1,6 +1,3 @@
-<img alt="Evalua logo" src="public/logo_e.png"/>
-
-
 # Prueba Senior Back-end
 
 ## Instrucciones sobre la realización de la prueba
